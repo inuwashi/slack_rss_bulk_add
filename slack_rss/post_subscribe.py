@@ -57,7 +57,7 @@ def add_feed(driver, rss_chanel_id, feed_url, add_rss_submit_btn_id):
       sys.exit(f'Could not find field id feed_channel')
 
 
-   input('Befoire we submit how dose it look?')
+   # input('Befoire we submit how dose it look?')
 
 
    try: 
@@ -68,7 +68,7 @@ def add_feed(driver, rss_chanel_id, feed_url, add_rss_submit_btn_id):
 
 
    
-   input('how dose it look after?')
+   # input('how dose it look after?')
 
    
 
