@@ -1,0 +1,2 @@
+https://www.theregister.com/software/headlines.atom
+https://www.theregister.com/on_prem/headlines.atom
